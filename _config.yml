@@ -250,7 +250,7 @@ filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtexshow, html, pdf, selecte
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: true
+  enabled: false
   widths:
     - 480
     - 800
